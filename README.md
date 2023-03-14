@@ -1,4 +1,4 @@
-# Stats220
+# stats220
 
 ### - *Hi my name is Nafis and this is my repo for Stats 220*
 
